@@ -72,7 +72,7 @@
                                 />
                             </svg>
                             <h2 class="text-3xl font-bold text-white">
-                                ¿Importancia de la calidad de software
+                                Importancia de la calidad de software
                             </h2>
                         </div>
                         <p class="text-white text-lg opacity-90">
@@ -87,7 +87,7 @@
                     >
                         <iframe
                             class="absolute top-0 left-0 w-full h-full rounded-lg shadow-2xl"
-                            src="https://www.youtube.com/embed/cMioAgraduw?rel=0&modestbranding=1"
+                            src="https://www.youtube.com/embed/tUeny-MDz_Q?rel=0&modestbranding=1"
                             title="Tutorial del Sistema Evaluador"
                             frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
